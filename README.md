@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba
+Este proyecto es una una prueba de como 
